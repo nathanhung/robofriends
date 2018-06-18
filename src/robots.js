@@ -55,6 +55,12 @@ export const robots = [
   },
   {
     id: 10,
+    name: 'Nathan Hung',
+    username: 'nhung',
+    email: 'nhung@test.com'
+  },
+  {
+    id: 11,
     name: 'Clementina DuBuque',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
